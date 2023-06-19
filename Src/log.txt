@@ -1,0 +1,340 @@
+
+2023-06-08 17:04:51,388 Coletando os dados do site
+2023-06-08 17:04:51,665 links coletados
+2023-06-08 17:04:51,665 links tratados
+2023-06-08 17:04:51,665 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:04:52,322 Arquivo CSV baixado com sucesso!
+2023-06-08 17:04:52,365 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:04:52,367 Cálculo de Preço por KG realizado
+2023-06-08 17:04:52,375 Planilha exportada e processo concluído!
+2023-06-08 17:05:45,906 Coletando os dados do site
+2023-06-08 17:05:46,186 links coletados
+2023-06-08 17:05:46,187 links tratados
+2023-06-08 17:05:46,187 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:05:46,849 Arquivo CSV baixado com sucesso!
+2023-06-08 17:05:46,893 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:05:46,894 Cálculo de Preço por KG realizado
+2023-06-08 17:05:46,902 Planilha exportada e processo concluído!
+2023-06-08 17:24:31,787 Coletando os dados do site
+2023-06-08 17:24:32,116 links coletados
+2023-06-08 17:24:32,116 links tratados
+2023-06-08 17:24:32,116 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:24:32,788 Arquivo CSV baixado com sucesso!
+2023-06-08 17:24:32,837 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:24:32,841 Cálculo de Preço por KG realizado
+2023-06-08 17:24:32,854 Planilha exportada e processo concluído!
+2023-06-08 17:27:07,016 Coletando os dados do site
+2023-06-08 17:27:07,324 links coletados
+2023-06-08 17:27:07,324 links tratados
+2023-06-08 17:27:07,324 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:27:08,026 Arquivo CSV baixado com sucesso!
+2023-06-08 17:27:08,075 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:27:08,078 Cálculo de Preço por KG realizado
+2023-06-08 17:27:08,092 Planilha exportada e processo concluído!
+2023-06-08 17:42:52,568 Coletando os dados do site
+2023-06-08 17:42:52,870 links coletados
+2023-06-08 17:42:52,870 links tratados
+2023-06-08 17:42:52,870 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:42:52,870 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 17:42:53,560 Arquivo CSV baixado com sucesso!
+2023-06-08 17:42:53,611 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:42:53,613 Cálculo de Preço por KG realizado
+2023-06-08 17:42:53,633 Planilha exportada e processo concluído!
+2023-06-08 17:46:54,024 Coletando os dados do site
+2023-06-08 17:46:54,321 links coletados
+2023-06-08 17:46:54,321 links tratados
+2023-06-08 17:46:54,321 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:46:54,322 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 17:46:54,989 Arquivo CSV baixado com sucesso!
+2023-06-08 17:46:55,035 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:46:55,036 Cálculo de Preço por KG realizado
+2023-06-08 17:46:55,049 Planilha exportada e processo concluído!
+2023-06-08 17:47:47,717 Coletando os dados do site
+2023-06-08 17:47:47,978 links coletados
+2023-06-08 17:47:47,978 links tratados
+2023-06-08 17:47:47,978 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:47:47,978 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 17:47:48,624 Arquivo CSV baixado com sucesso!
+2023-06-08 17:47:48,668 Base filtrada com o Código do País 361, Código de transporte 1, Código do produto 85444200 e Estado de SP
+2023-06-08 17:47:48,669 Cálculo de Preço por KG realizado
+2023-06-08 17:47:48,680 Planilha exportada e processo concluído!
+2023-06-08 17:48:52,714 Coletando os dados do site
+2023-06-08 17:48:53,043 links coletados
+2023-06-08 17:48:53,043 links tratados
+2023-06-08 17:48:53,043 links filtrados para NCM, importação e ano 2023
+2023-06-08 17:48:53,043 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 17:48:53,734 Arquivo CSV baixado com sucesso!
+2023-06-08 17:48:53,789 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 17:48:53,791 Cálculo de Preço por KG realizado
+2023-06-08 17:48:53,804 Planilha exportada e processo concluído!
+2023-06-08 20:22:48,940 Coletando os dados do site
+2023-06-08 20:22:49,272 links coletados
+2023-06-08 20:22:49,272 links tratados
+2023-06-08 20:22:49,272 links filtrados para NCM, importação e ano 2023
+2023-06-08 20:22:49,272 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 20:22:50,010 Arquivo CSV baixado com sucesso!
+2023-06-08 20:22:50,058 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 20:22:50,060 Cálculo de Preço por KG realizado
+2023-06-08 20:22:50,074 Planilha exportada e processo concluído!
+2023-06-08 20:40:40,153 Coletando os dados do site
+2023-06-08 20:40:40,468 links coletados
+2023-06-08 20:40:40,468 links tratados
+2023-06-08 20:40:40,468 links filtrados para NCM, importação e ano 2023
+2023-06-08 20:40:40,468 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 20:40:41,110 Arquivo CSV baixado com sucesso!
+2023-06-08 20:40:41,149 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 20:40:41,152 Cálculo de Preço por KG realizado
+2023-06-08 20:40:41,164 Planilha exportada e processo concluído!
+2023-06-08 20:41:50,514 Coletando os dados do site
+2023-06-08 20:41:50,815 links coletados
+2023-06-08 20:41:50,815 links tratados
+2023-06-08 20:41:50,815 links filtrados para NCM, importação e ano 2023
+2023-06-08 20:41:50,815 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 20:41:51,447 Arquivo CSV baixado com sucesso!
+2023-06-08 20:41:51,489 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 20:41:51,491 Cálculo de Preço por KG realizado
+2023-06-08 20:41:51,501 Planilha exportada e processo concluído!
+2023-06-08 21:00:23,536 Coletando os dados do site
+2023-06-08 21:00:23,872 links coletados
+2023-06-08 21:00:23,872 links tratados
+2023-06-08 21:00:23,872 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:00:23,872 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:00:24,515 Arquivo CSV baixado com sucesso!
+2023-06-08 21:00:24,558 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 21:00:24,559 Cálculo de Preço por KG realizado
+2023-06-08 21:00:24,571 Planilha exportada e processo concluído!
+2023-06-08 21:01:19,753 Coletando os dados do site
+2023-06-08 21:01:20,234 links coletados
+2023-06-08 21:01:20,234 links tratados
+2023-06-08 21:01:20,234 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:01:20,235 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:01:45,694 Arquivo CSV baixado com sucesso!
+2023-06-08 21:01:45,755 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 21:01:45,759 Cálculo de Preço por KG realizado
+2023-06-08 21:02:26,446 Planilha exportada e processo concluído!
+2023-06-08 21:07:11,386 Não foi encontrado dado na planilha Config.xlsx
+2023-06-08 21:07:21,436 Coletando os dados do site
+2023-06-08 21:07:21,929 links coletados
+2023-06-08 21:07:21,929 links tratados
+2023-06-08 21:07:21,929 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:07:21,930 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:07:44,440 Arquivo CSV baixado com sucesso!
+2023-06-08 21:07:44,505 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 21:07:44,510 Cálculo de Preço por KG realizado
+2023-06-08 21:07:48,277 Planilha exportada e processo concluído!
+2023-06-08 21:43:45,609 Dados coletados na planilha Config.xlsx
+2023-06-08 21:43:45,610 Coletando os dados do site
+2023-06-08 21:43:45,976 links coletados
+2023-06-08 21:43:45,976 links tratados
+2023-06-08 21:43:45,976 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:43:45,976 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:43:46,671 Arquivo CSV baixado com sucesso!
+2023-06-08 21:45:13,612 Dados coletados na planilha Config.xlsx
+2023-06-08 21:45:19,060 Coletando os dados do site
+2023-06-08 21:45:19,540 links coletados
+2023-06-08 21:45:19,541 links tratados
+2023-06-08 21:45:19,541 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:45:19,541 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:46:18,656 Dados coletados na planilha Config.xlsx
+2023-06-08 21:46:18,656 Coletando os dados do site
+2023-06-08 21:46:18,909 links coletados
+2023-06-08 21:46:18,909 links tratados
+2023-06-08 21:46:18,909 links filtrados para NCM, importação e ano 2023
+2023-06-08 21:46:18,909 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 21:46:19,541 Arquivo CSV baixado com sucesso!
+2023-06-08 22:39:47,575 Dados coletados na planilha Config.xlsx
+2023-06-08 22:39:54,643 Coletando os dados do site
+2023-06-08 22:39:55,230 links coletados
+2023-06-08 22:39:55,231 links tratados
+2023-06-08 22:39:55,231 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:39:55,231 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:40:17,977 Dados coletados na planilha Config.xlsx
+2023-06-08 22:40:20,937 Coletando os dados do site
+2023-06-08 22:40:21,425 links coletados
+2023-06-08 22:40:21,425 links tratados
+2023-06-08 22:40:21,425 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:40:21,426 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:42:14,113 Dados coletados na planilha Config.xlsx
+2023-06-08 22:42:17,444 Coletando os dados do site
+2023-06-08 22:42:17,924 links coletados
+2023-06-08 22:42:17,925 links tratados
+2023-06-08 22:42:17,925 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:42:17,925 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:42:25,515 Arquivo CSV baixado com sucesso!
+2023-06-08 22:42:25,580 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 22:42:25,588 Cálculo de Preço por KG realizado
+2023-06-08 22:42:33,832 Arquivo CSV baixado com sucesso!
+2023-06-08 22:42:33,871 Base filtrada com o Código do País 361, Código de transporte 1, Código do produto 85444200 e Estado de SP
+2023-06-08 22:42:33,876 Cálculo de Preço por KG realizado
+2023-06-08 22:42:42,636 Planilha exportada e processo concluído!
+2023-06-08 22:48:12,645 Dados coletados na planilha Config.xlsx
+2023-06-08 22:48:15,249 Coletando os dados do site
+2023-06-08 22:48:15,727 links coletados
+2023-06-08 22:48:15,727 links tratados
+2023-06-08 22:48:15,727 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:48:15,727 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:48:23,862 Arquivo CSV baixado com sucesso!
+2023-06-08 22:48:23,919 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 22:48:23,924 Cálculo de Preço por KG realizado
+2023-06-08 22:48:30,447 Planilha exportada e processo concluído!
+2023-06-08 22:49:37,405 Dados coletados na planilha Config.xlsx
+2023-06-08 22:52:06,537 Dados coletados na planilha Config.xlsx
+2023-06-08 22:52:08,175 Coletando os dados do site
+2023-06-08 22:52:08,786 links coletados
+2023-06-08 22:52:08,786 links tratados
+2023-06-08 22:52:08,787 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:52:08,787 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:52:12,490 Arquivo CSV baixado com sucesso!
+2023-06-08 22:52:12,552 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 22:52:12,557 Cálculo de Preço por KG realizado
+2023-06-08 22:52:14,378 Planilha exportada e processo concluído!
+2023-06-08 22:58:23,785 Dados coletados na planilha Config.xlsx
+2023-06-08 22:58:23,785 Coletando os dados do site
+2023-06-08 22:58:24,075 links coletados
+2023-06-08 22:58:24,075 links tratados
+2023-06-08 22:58:24,075 links filtrados para NCM, importação e ano 2023
+2023-06-08 22:58:24,076 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 22:58:24,767 Arquivo CSV baixado com sucesso!
+2023-06-08 22:58:24,817 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 22:58:24,821 Cálculo de Preço por KG realizado
+2023-06-08 22:58:24,834 Planilha exportada e processo concluído!
+2023-06-08 23:02:11,968 Dados coletados na planilha Config.xlsx
+2023-06-08 23:02:17,469 Coletando os dados do site
+2023-06-08 23:03:24,161 Dados coletados na planilha Config.xlsx
+2023-06-08 23:03:27,111 Coletando os dados do site
+2023-06-08 23:03:42,014 Dados coletados na planilha Config.xlsx
+2023-06-08 23:03:45,049 Coletando os dados do site
+2023-06-08 23:05:03,570 Dados coletados na planilha Config.xlsx
+2023-06-08 23:05:05,612 Coletando os dados do site
+2023-06-08 23:05:17,207 Dados coletados na planilha Config.xlsx
+2023-06-08 23:05:19,629 Coletando os dados do site
+2023-06-08 23:05:24,784 Link com erro
+2023-06-08 23:07:00,894 Dados coletados na planilha Config.xlsx
+2023-06-08 23:07:00,894 Coletando os dados do site
+2023-06-08 23:07:01,032 Link com erro
+2023-06-08 23:09:48,544 Dados coletados na planilha Config.xlsx
+2023-06-08 23:09:50,631 Coletando os dados do site
+2023-06-08 23:09:52,790 Link com erro
+2023-06-08 23:10:15,379 Dados coletados na planilha Config.xlsx
+2023-06-08 23:10:15,379 Coletando os dados do site
+2023-06-08 23:10:15,498 Link com erro
+2023-06-08 23:10:29,166 Dados coletados na planilha Config.xlsx
+2023-06-08 23:10:29,166 Coletando os dados do site
+2023-06-08 23:10:29,438 links coletados
+2023-06-08 23:10:29,438 links tratados
+2023-06-08 23:10:29,438 links filtrados para NCM, importação e ano 2023
+2023-06-08 23:10:29,439 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-08 23:10:30,087 Arquivo CSV baixado com sucesso!
+2023-06-08 23:10:30,136 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-08 23:10:30,141 Cálculo de Preço por KG realizado
+2023-06-08 23:10:30,161 Planilha exportada e processo concluído!
+2023-06-09 11:00:48,110 Dados coletados na planilha Config.xlsx
+2023-06-09 11:00:48,110 Coletando os dados do site
+2023-06-09 11:00:48,620 links coletados
+2023-06-09 11:00:48,620 links tratados
+2023-06-09 11:00:48,621 links filtrados para NCM, importação e ano 2023
+2023-06-09 11:00:48,621 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 11:02:15,248 Arquivo CSV baixado com sucesso!
+2023-06-09 11:02:15,313 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 11:02:15,322 Cálculo de Preço por KG realizado
+2023-06-09 11:02:26,196 Planilha exportada e processo concluído!
+2023-06-09 11:05:28,296 Dados coletados na planilha Config.xlsx
+2023-06-09 11:05:28,296 Coletando os dados do site
+2023-06-09 11:05:28,598 links coletados
+2023-06-09 11:05:28,598 links tratados
+2023-06-09 11:05:28,598 links filtrados para NCM, importação e ano 2023
+2023-06-09 11:05:28,598 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 11:06:10,491 Arquivo CSV baixado com sucesso!
+2023-06-09 11:06:10,532 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 11:06:10,534 Cálculo de Preço por KG realizado
+2023-06-09 11:06:10,542 Planilha exportada e processo concluído!
+2023-06-09 12:05:08,897 Dados coletados na planilha Config.xlsx
+2023-06-09 12:05:08,897 Coletando os dados do site
+2023-06-09 12:05:09,243 links coletados
+2023-06-09 12:05:09,243 links tratados
+2023-06-09 12:05:09,243 links filtrados para NCM, importação e ano 2023
+2023-06-09 12:05:09,243 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 12:06:24,337 Arquivo CSV baixado com sucesso!
+2023-06-09 12:06:24,408 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 12:06:24,412 Cálculo de Preço por KG realizado
+2023-06-09 12:06:24,428 Planilha exportada e processo concluído!
+2023-06-09 14:03:25,940 Dados coletados na planilha Config.xlsx
+2023-06-09 14:03:25,940 Coletando os dados do site
+2023-06-09 14:03:26,267 links coletados
+2023-06-09 14:03:26,268 links tratados
+2023-06-09 14:03:26,268 links filtrados para NCM, importação e ano 2023
+2023-06-09 14:03:26,268 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 14:08:14,657 Arquivo CSV baixado com sucesso!
+2023-06-09 14:08:14,712 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 14:08:14,718 Cálculo de Preço por KG realizado
+2023-06-09 14:08:14,742 Planilha exportada e processo concluído!
+2023-06-09 14:32:50,690 Dados coletados na planilha Config.xlsx
+2023-06-09 14:32:50,690 Coletando os dados do site
+2023-06-09 14:32:50,987 links coletados
+2023-06-09 14:32:50,987 links tratados
+2023-06-09 14:32:50,987 links filtrados para NCM, importação e ano 2023
+2023-06-09 14:32:50,987 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 14:33:41,971 Arquivo CSV baixado com sucesso!
+2023-06-09 14:33:42,020 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 14:33:42,022 Cálculo de Preço por KG realizado
+2023-06-09 14:33:42,035 Planilha exportada e processo concluído!
+2023-06-09 14:34:44,201 Dados coletados na planilha Config.xlsx
+2023-06-09 14:34:44,201 Coletando os dados do site
+2023-06-09 14:34:44,473 links coletados
+2023-06-09 14:34:44,473 links tratados
+2023-06-09 14:34:44,474 links filtrados para NCM, importação e ano 2023
+2023-06-09 14:34:44,474 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-09 14:35:08,720 Arquivo CSV baixado com sucesso!
+2023-06-09 14:35:08,768 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-09 14:35:08,769 Cálculo de Preço por KG realizado
+2023-06-09 14:35:08,782 Planilha exportada e processo concluído!
+2023-06-10 13:30:23,046 Dados coletados na planilha Config.xlsx
+2023-06-10 13:30:23,053 Coletando os dados do site
+2023-06-10 13:30:23,331 links coletados
+2023-06-10 13:30:23,331 links tratados
+2023-06-10 13:30:23,331 links filtrados para NCM, importação e ano 2023
+2023-06-10 13:30:23,331 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-10 13:30:47,301 Arquivo CSV baixado com sucesso!
+2023-06-10 13:30:47,349 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-10 13:30:47,350 Cálculo de Preço por KG realizado
+2023-06-10 13:30:47,363 Planilha exportada e processo concluído!
+2023-06-10 15:03:50,603 Dados coletados na planilha Config.xlsx
+2023-06-10 15:03:50,603 Coletando os dados do site
+2023-06-10 15:03:50,910 links coletados
+2023-06-10 15:03:50,911 links tratados
+2023-06-10 15:03:50,911 links filtrados para NCM, importação e ano 2023
+2023-06-10 15:03:50,911 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-10 15:04:04,821 Arquivo CSV baixado com sucesso!
+2023-06-10 15:04:04,875 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-10 15:04:04,880 Cálculo de Preço por KG realizado
+2023-06-10 15:04:04,907 Planilha exportada e processo concluído!
+2023-06-10 15:05:02,974 Dados coletados na planilha Config.xlsx
+2023-06-10 15:05:02,974 Coletando os dados do site
+2023-06-10 15:05:03,265 links coletados
+2023-06-10 15:05:03,265 links tratados
+2023-06-10 15:05:03,265 links filtrados para NCM, importação e ano 2023
+2023-06-10 15:05:03,265 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-10 15:05:30,036 Arquivo CSV baixado com sucesso!
+2023-06-10 15:05:30,089 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-10 15:05:30,090 Cálculo de Preço por KG realizado
+2023-06-10 15:05:30,105 Planilha exportada e processo concluído!
+2023-06-10 15:06:26,269 Dados coletados na planilha Config.xlsx
+2023-06-10 15:06:26,269 Coletando os dados do site
+2023-06-10 15:06:26,540 links coletados
+2023-06-10 15:06:26,540 links tratados
+2023-06-10 15:06:26,540 links filtrados para NCM, importação e ano 2023
+2023-06-10 15:06:26,540 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-10 15:06:47,312 Arquivo CSV baixado com sucesso!
+2023-06-10 15:06:47,360 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-10 15:06:47,361 Cálculo de Preço por KG realizado
+2023-06-10 15:06:47,376 Planilha exportada e processo concluído!
+2023-06-19 11:38:50,841 Dados coletados na planilha Config.xlsx
+2023-06-19 11:38:50,842 Coletando os dados do site
+2023-06-19 11:38:51,161 links coletados
+2023-06-19 11:38:51,161 links tratados
+2023-06-19 11:38:51,161 links filtrados para NCM, importação e ano 2023
+2023-06-19 11:38:51,161 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
+2023-06-19 11:38:58,464 Arquivo CSV baixado com sucesso!
+2023-06-19 11:38:58,514 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
+2023-06-19 11:38:58,516 Cálculo de Preço por KG realizado
+2023-06-19 11:38:58,533 Planilha exportada e processo concluído!
