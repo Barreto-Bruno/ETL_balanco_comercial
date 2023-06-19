@@ -50,19 +50,5 @@ Consolidates data from a CSV file (inside link provide by link_download) based o
 - Returns:
   - pd.DataFrame: The filtered and consolidated DataFrame containing columns: 'CO_ANO', 'CO_MES', 'CO_NCM', 'CO_UNID','CO_PAIS', 'SG_UF_NCM', 'CO_VIA', 'CO_URF', 'CUSTO_TOTAL', 'PRECO_POR_KG', sorted by 'CO_MES'.
 
-## collect_data_graph(dataframe: pd.DataFrame) -> Tuple[float, float, float, float]
-Collects relevant data from a DataFrame for graph plotting.
-
-- Parameters:
-  - dataframe (pd.DataFrame): The DataFrame containing the relevant data.
-- Returns:
-  - tuple: A tuple containing the following data: ks_bad (float), ks_good (float), ks_stat (float), ks_value (float).
-
-## ks_calculate(file)
-Performs the Kolmogorov-Smirnov (KS) test on data from a CSV file and plots the graph.
-
-- Parameters:
-  - file (str): The path to the CSV file containing the data.
-
 License
 This code is licensed under the MIT License. See the LICENSE file for details.
