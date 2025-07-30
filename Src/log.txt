@@ -328,13 +328,3 @@
 2023-06-10 15:06:47,360 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
 2023-06-10 15:06:47,361 Cálculo de Preço por KG realizado
 2023-06-10 15:06:47,376 Planilha exportada e processo concluído!
-2023-06-19 11:38:50,841 Dados coletados na planilha Config.xlsx
-2023-06-19 11:38:50,842 Coletando os dados do site
-2023-06-19 11:38:51,161 links coletados
-2023-06-19 11:38:51,161 links tratados
-2023-06-19 11:38:51,161 links filtrados para NCM, importação e ano 2023
-2023-06-19 11:38:51,161 links selecionado foi: https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_2023.csv
-2023-06-19 11:38:58,464 Arquivo CSV baixado com sucesso!
-2023-06-19 11:38:58,514 Base filtrada com o Código do País 275, Código de transporte 1, Código do produto 33030010 e Estado de SP
-2023-06-19 11:38:58,516 Cálculo de Preço por KG realizado
-2023-06-19 11:38:58,533 Planilha exportada e processo concluído!
