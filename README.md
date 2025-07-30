@@ -9,7 +9,7 @@ This code downloads data from a government site, collects variables from an Exce
 
 ## Installation
 
-1. Make sure you have Python 3.8 installed correctly on your system
+1. Make sure you have Python 3.8 installed correctly on your system.
 2. Install the required libraries by running the following command in the terminal:
 
    ```shell
