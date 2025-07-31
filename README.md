@@ -1,4 +1,4 @@
-# Script Internacional Trade
+# Script Internacional Trade - Case
 
 This code downloads data from a government site, collects variables from an Excel file, consolidates the data, and exports it to a CSV file.
 
