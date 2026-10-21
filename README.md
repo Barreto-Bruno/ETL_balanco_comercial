@@ -45,7 +45,7 @@ Consolidates data from a CSV file (inside link provide by link_download) based o
   - link_base (str): The link to the CSV file to be downloaded and processed.
   - co_country (int, optional): The country code for filtering the data. Defaults to 275.
   - co_trans (int, optional): The transportation code for filtering the data. Defaults to 1.
-  - co_ncm (int, optional): The product code for filtering the data. Defaults to 33030010.
+  - co_ncm (int, optional): The product code for filtering the data.
   - state (str, optional): The state abbreviation for filtering the data. Defaults to 'SP'.
 - Returns:
   - pd.DataFrame: The filtered and consolidated DataFrame containing columns: 'CO_ANO', 'CO_MES', 'CO_NCM', 'CO_UNID','CO_PAIS', 'SG_UF_NCM', 'CO_VIA', 'CO_URF', 'CUSTO_TOTAL', 'PRECO_POR_KG', sorted by 'CO_MES'.
